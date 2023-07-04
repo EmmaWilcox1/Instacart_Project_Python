@@ -1,4 +1,4 @@
-# Instacart_Python
+# Instacart_Project_Python
 
 Python analysis of online grocery order datasets from Instacart, undertaken as part of CareerFoundry Data Analystics course.  
 
