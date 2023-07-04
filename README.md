@@ -13,7 +13,7 @@ The goal is to increase sales with greater understanding of any meaningfully dis
 
 -[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
--“The Instacart Online Grocery Shopping Dataset 2017”, Accessed (https://www.instacart.com/datasets/grocery-shopping-2017) on April 2023
+-“The Instacart Online Grocery Shopping Dataset 2017”, Accessed [(https://www.instacart.com/datasets/grocery-shopping-2017)] on April 2023
 
 # Approach:
 
