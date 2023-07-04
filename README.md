@@ -5,7 +5,7 @@ Python analysis of online grocery order datasets from Instacart, undertaken as p
 # Objectives:
 
 Instacart wants to use insights from initial data and exploratory analysis to develop better segmentation of customers, and the marketing strategies to best reach them. 
-The goal is to increase sales with creater understanding of any meaningfully distinct customer behaviors.
+The goal is to increase sales with greater understanding of any meaningfully distinct customer behaviors.
 
 # Data:
 
