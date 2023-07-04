@@ -21,9 +21,13 @@ The goal is to increase sales with greater understanding of any meaningfully dis
 Vizualizations and Analysis created in Python with libraries:
 
 -numpy
+
 -pandas
+
 -seaborn
+
 -scipy
+
 -matplotlib
 
 Final presentation created with Excel
@@ -31,8 +35,12 @@ Final presentation created with Excel
 # Contents
 
 -Project Management: Project Brief
+
 -Data: Separated into Original and Prepared Data. This folder has not been included in repository because of space considerations.
+
 -Scripts: Contains all the Jupyter scripts developed to clean, transform, analyze and visualize data
+
 -Analysis: Contains the visualizations used to explore data and illustrate insights in the final report
+
 -Sent to client: Final Report
 
