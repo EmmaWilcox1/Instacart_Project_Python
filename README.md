@@ -32,7 +32,7 @@ Vizualizations and Analysis created in Python with libraries:
 
 Final presentation created with Excel
 
-# Contents
+# Contents:
 
 -Project Management: Project Brief
 
